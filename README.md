@@ -13,7 +13,7 @@ I’m a **Full Stack MERN Developer** passionate about building modern, scalable
 
 - 🌱 Currently learning **Cloud-Native Development, System Design & Distributed Systems**
 - 🤝 Looking to collaborate with **Full Stack Developers & Open Source Contributors**
-- ✍️ 2025 Goal: **Contribute to scalable open-source projects & publish technical blogs**
+- ✍️ 2026 Goal: **Contribute to scalable open-source projects & publish technical blogs**
 - 📫 Reach me at: **tushar2002joshi@gmail.com**
 
 ---
