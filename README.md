@@ -53,11 +53,13 @@ I’m a **Full Stack MERN Developer** passionate about building modern, scalable
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharjoshi452&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Followers](https://img.shields.io/github/followers/tusharjoshi452?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/tusharjoshi452?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge&logo=github)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharjoshi452&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjoshi452&layout=compact&theme=tokyonight&hide_border=true)
+👉 View full stats:  
+🔗 https://github.com/tusharjoshi452?tab=repositories  
+🔗 https://github.com/tusharjoshi452?tab=overview  
 
 ---
 
